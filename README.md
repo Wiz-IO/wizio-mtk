@@ -16,6 +16,8 @@ Arduino & Baremetal (no GSM) development platform version 1.0.0
 * Bluetooth
 * SD Card
 
+(note: baremetal C/CPP builder is not ready yet)
+
 ![mt6261](https://raw.githubusercontent.com/Wiz-IO/LIB/master/images/mt6261.jpg) 
 
 ## Install Platform
