@@ -1,5 +1,5 @@
 # PlatformIO for Mediatek MT6261
-Arduino & Baremetal ( no GSM ) development platform version 1.0.0
+Arduino & Baremetal ( **no GSM** ) development platform version 1.0.0
 
 **MT6261 & MT250x**
 * SoC ARM7EJ-S @ 260 MHz
