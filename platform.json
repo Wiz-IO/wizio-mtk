@@ -1,0 +1,37 @@
+{
+  "name": "wizio-mtk",
+  "title": "WizIO MediaTek",
+  "description": "Development platform 2020 Georgi Angelov",
+  "url": "",
+  "homepage": "http://www.wizio.eu/",
+  "license": "Apache-2.0",
+  "engines": { "platformio": "^3.0.0" },
+
+  "version": "1.0.0",
+  "packageRepositories": [
+    "https://dl.bintray.com/platformio/dl-packages/manifest.json",
+    "http://dl.platformio.org/packages/manifest.json"
+  ],
+  "frameworks": {
+      "baremetal": {
+        "package": "framework-wizio-mtk",
+        "script": "builder/frameworks/sdk.py"
+      },
+      "arduino": {
+        "package": "framework-wizio-mtk",
+        "script": "builder/frameworks/arduino.py"
+      }       
+         
+  },
+  "packages": {
+    "framework-wizio-mtk": {
+        "type": "framework",
+        "version": "1.0.0"
+    },
+    "toolchain-gccarmnoneeabi": {
+        "type": "toolchain",
+        "version": "=1.70201.0"
+    }      
+
+  }
+}

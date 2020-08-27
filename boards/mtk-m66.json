@@ -1,0 +1,28 @@
+{
+  "name": "WizIO-MT6261-M66",
+  "url": "https://github.com",
+  "build": {
+    "sdk": "m66",
+    "core": "m66",
+    "variant": "m66",    
+    "uploader": "mtk-m66",
+    "f_cpu": "260000000L",
+    "mcu": "ARM, MT6261"
+  },
+  "debug": {
+    "tools": {
+      "uart": {
+        "onboard": true,
+        "extra_cmds": [],
+        "load_cmd": [],
+        "server": {}
+      }
+    }
+  },  
+  "frameworks": ["baremetal", "arduino"],
+  "vendor": "WizIO",
+  "upload": {
+        "maximum_ram_size": 3145728,
+        "maximum_size"    : 3145728
+  }
+}
