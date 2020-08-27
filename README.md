@@ -17,6 +17,7 @@ The project is based on reverse engineering
 * LCD
 * Bluetooth
 * SD Card
+* Audio 32 tones ( Mediatek did not want to help for more )
 
 ( note: baremetal C/CPP builder is not ready yet )
 
