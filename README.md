@@ -32,7 +32,6 @@ Arduino & Baremetal ( no GSM ) development platform version 1.0.0
 platform = wizio-mtk
 board = mtk-m66
 framework = arduino
-
 upload_port = COM13
 monitor_port = COM13
 monitor_speed = 115200
