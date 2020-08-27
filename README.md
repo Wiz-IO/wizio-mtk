@@ -22,7 +22,7 @@ Arduino & Baremetal (no GSM) development platform version 1.0.0
 
 ## Install Platform
 * PlatformIO Home > Platforms > Advanced Installation
-* paste https://github.com/Wiz-IO/platform-quectel
+* paste https://github.com/Wiz-IO/wizio-mtk
 
 ![linkit](https://raw.githubusercontent.com/Wiz-IO/LIB/master/images/linkit.jpg) 
 
