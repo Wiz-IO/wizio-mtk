@@ -1,12 +1,15 @@
 {
   "name": "wizio-mtk",
   "title": "WizIO MediaTek",
-  "description": "Development platform 2020 Georgi Angelov",
-  "url": "",
+  "description": "MT6261 Development platform 2020 Georgi Angelov",
+  "url": "https://github.com/Wiz-IO/wizio-mtk",
   "homepage": "http://www.wizio.eu/",
   "license": "Apache-2.0",
   "engines": { "platformio": "^3.0.0" },
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wiz-IO/wizio-mtk"
+  },
   "version": "1.0.0",
   "packageRepositories": [
     "https://dl.bintray.com/platformio/dl-packages/manifest.json",
@@ -26,7 +29,7 @@
   "packages": {
     "framework-wizio-mtk": {
         "type": "framework",
-        "version": "1.0.0"
+        "version": "https://github.com/Wiz-IO/framework-wizio-mtk"
     },
     "toolchain-gccarmnoneeabi": {
         "type": "toolchain",
