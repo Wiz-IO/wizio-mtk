@@ -26,6 +26,19 @@ Arduino & Baremetal ( no GSM ) development platform version 1.0.0
 
 ![linkit](https://raw.githubusercontent.com/Wiz-IO/LIB/master/images/linkit.jpg) 
 
+## INI
+```ini
+[env:mtk-m66]
+platform = wizio-mtk
+board = mtk-m66
+framework = arduino
+
+upload_port = COM13
+monitor_port = COM13
+monitor_speed = 115200
+;build_flags = -DLINKIT
+```
+
 ## Tested with
 * [LinkIt ONE](https://www.seeedstudio.com/LinkIt-ONE-p-2017.html)
 * [Quectel M66](https://www.quectel.com/product/m66.htm)
