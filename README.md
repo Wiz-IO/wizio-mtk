@@ -8,6 +8,7 @@ The project is based on reverse engineering
 * RAM: 4M
 * FLASH: 4M
 * GPIO [56]
+* Timers
 * ADC
 * PWM
 * UART [3]
