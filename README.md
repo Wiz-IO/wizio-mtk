@@ -28,7 +28,7 @@ Arduino & Baremetal ( no GSM ) development platform version 1.0.0
 
 ## [Bootloaders](https://github.com/Wiz-IO/framework-wizio-mtk/tree/master/bootloaders)
 * for Linkit ONE use FirmwareUpdater.exe
-* for Quectel M66 use QFlash_V4.x.exe
+* for Quectel M66 use QFlash_Vx.x.exe
 * Restore - just reflash with original firmwares
 
 ## INI
