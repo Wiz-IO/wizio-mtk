@@ -1,6 +1,8 @@
 # PlatformIO for Mediatek MT6261
 **Arduino** & Baremetal ( **no GSM** ) development platform version 1.0.0
 
+The project is based on reverse engineering
+
 **MT6261 & MT250x**
 * SoC ARM7EJ-S @ 260 MHz
 * RAM: 4M
