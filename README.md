@@ -56,3 +56,4 @@ monitor_speed = 115200
 * [MediatekInfo DZ09](https://github.com/MediatekInfo/DZ09)
 * [OsmocomBB Fernvale](https://osmocom.org/projects/baseband/wiki/Fernvale)
 
+![dzvero](https://raw.githubusercontent.com/Wiz-IO/LIB/master/images/dzvero.jpg) 
