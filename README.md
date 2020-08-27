@@ -1,5 +1,5 @@
 # PlatformIO for Mediatek MT6261
-Baremetal (no GSM) development platform version 1.0.0
+Arduino & Baremetal (no GSM) development platform version 1.0.0
 
 **MT6261 & MT250x**
 * SoC ARM7EJ-S @ 260 MHz
@@ -16,3 +16,10 @@ Baremetal (no GSM) development platform version 1.0.0
 * Bluetooth
 * SD Card
 
+##Install Platform
+* PlatformIO Home > Platforms > Advanced Installation
+* paste https://github.com/Wiz-IO/platform-quectel
+
+##Links
+* [MediatekInfo DZ09](https://github.com/MediatekInfo/DZ09)
+* [OsmocomBB Fernvale](https://osmocom.org/projects/baseband/wiki/Fernvale)
